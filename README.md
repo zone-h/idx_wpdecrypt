@@ -1,3 +1,3 @@
-# idx_wpdecrypt
+# IDX-WPhash
 
-usage: php wphash.php wordlist.txt
+usage: php wphash.php
